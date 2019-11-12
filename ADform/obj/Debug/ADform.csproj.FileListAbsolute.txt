@@ -1,0 +1,10 @@
+c:\users\carlos diaz\source\repos\ADform\ADform\bin\Debug\ADform.exe.config
+c:\users\carlos diaz\source\repos\ADform\ADform\bin\Debug\ADform.exe
+c:\users\carlos diaz\source\repos\ADform\ADform\bin\Debug\ADform.pdb
+c:\users\carlos diaz\source\repos\ADform\ADform\obj\Debug\ADform.csprojAssemblyReference.cache
+c:\users\carlos diaz\source\repos\ADform\ADform\obj\Debug\ADform.Properties.Resources.resources
+c:\users\carlos diaz\source\repos\ADform\ADform\obj\Debug\ADform.csproj.GenerateResource.cache
+c:\users\carlos diaz\source\repos\ADform\ADform\obj\Debug\ADform.csproj.CoreCompileInputs.cache
+c:\users\carlos diaz\source\repos\ADform\ADform\obj\Debug\ADform.exe
+c:\users\carlos diaz\source\repos\ADform\ADform\obj\Debug\ADform.pdb
+C:\Users\Carlos Diaz\source\repos\ADform\ADform\obj\Debug\ADform.UIForm.resources
